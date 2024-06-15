@@ -1,1 +1,2 @@
 # odin-recipes
+The current project is about a website using the HTML skills i have learnt from the ODIN project. I will skillfully use the most efficient syntex in a clean way to create my website. On top of it, I hope to build it in a way which makes the entire code easy to read and very clean.
