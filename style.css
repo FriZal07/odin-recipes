@@ -1,0 +1,27 @@
+p,
+li {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter;
+    color: darkslateblue;
+}
+
+
+.title {
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.image {
+    border-radius: 25px;
+}
+
+li.front {
+    font-size: 25px;
+}
+
+div.front {
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
