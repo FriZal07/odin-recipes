@@ -11,17 +11,28 @@ li {
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
     text-align: center;
-}
-
-.image {
+    background-color: rgb(234, 192, 167);
     border-radius: 25px;
 }
 
-li.front {
+.image {
+    display: block;
+    border-radius: 25px;
+    border: solid 3px rgb(227, 211, 201);
+    margin: 20px auto;
+    padding: 10px;
+}
+
+span.front {
+    display: inline-block;
     font-size: 25px;
+    background-color: rgb(227, 211, 201);
+    padding: 15px;
+    margin: 0px auto;
 }
 
 div.front {
     margin-bottom: 15px;
     margin-top: 15px;
+    text-align: center;
 }
